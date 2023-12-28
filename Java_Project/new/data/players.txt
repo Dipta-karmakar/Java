@@ -1,0 +1,2 @@
+23;Litton Das;32;we;233.0;2.0;23;Batsman;Right;32.0;Cu victorians;1;Co-VIctorians
+23;Musfiqur;33;ew;32.0;32.0;23;Wc keeper;Left;32.0;Fort Barishal;3;Co-VIctorians

@@ -1,0 +1,5 @@
+admin;admin
+a;a
+dipta;dipta
+w;w
+x;x
